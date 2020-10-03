@@ -1,16 +1,16 @@
-# admob
+# Flutter + AdMob (Alternativa)
 
-A new Flutter project.
+## En Breve
 
-## Getting Started
+Este repositorio es un ejercicio en donde usamos una alternativa de [Firebase AdMob](https://pub.dev/packages/firebase_admob) oficial en [pub.dev](https://pub.dev/)
 
-This project is a starting point for a Flutter application.
+- [Info: Ver publicación](https://dev.1futurista.com/flutter/agregar-ads-admob-flutter-15-minutos/)
+- [Youtube: Agregar AdMob a Flutter en Español](https://www.youtube.com/watch?v=S8UeXH1mkvA&t=507s&ab_channel=BaldomeroCho)
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencia
+La dependencia, plugin o extención que usaremos es admob_flutter (no oficial de Google). 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [admob_flutter](https://pub.dev/packages/admob_flutter)
+- [instalacion](https://pub.dev/packages/admob_flutter): haz los cambios en **pubspec.yaml**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### :) Esto es gratis, deja una estrella o un like.
