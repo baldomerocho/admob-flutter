@@ -1,4 +1,4 @@
-# Flutter + AdMob (Alternativa)
+# Flutter + Google Mobile Ads Example
 
 ## En Breve
 
